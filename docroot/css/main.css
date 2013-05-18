@@ -1,0 +1,11 @@
+.mygists-portlet ul {
+    font-size: 14px;
+    list-style: none outside none;
+    margin: 5px 2px;
+    padding: 0;
+}
+
+.mygists-portlet ul li a {
+	text-decoration: none;
+	
+}
