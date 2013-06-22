@@ -9,3 +9,17 @@
 	text-decoration: none;
 	
 }
+
+.gist {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 3px 3px 3px 3px;
+  color: #000000;
+  margin-bottom: 2px;
+  padding: 2px 4px;
+}
+
+.gist:hover {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+  color: white;
+}
